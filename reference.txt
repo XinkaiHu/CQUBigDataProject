@@ -1,0 +1,12 @@
+TEXT CLASSIFICATION WITH THE TORCHTEXT LIBRARY
+https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html
+
+Overview of the NLPCC 2017 Shared Task: Chinese News Headline Categorization
+https://github.com/FudanNLP/nlpcc2017_news_headline_categorization
+https://arxiv.org/abs/1706.02883
+
+Bag of Tricks for Efficient Text Classification
+https://arxiv.org/abs/1607.01759
+
+清华大学 THUCNews 数据集
+孙茂松，李景阳，郭志芃，赵宇，郑亚斌，司宪策，刘知远. THUCTC：一个高效的中文文本分类工具包. 2016.

@@ -1,0 +1,67 @@
+# Overall
+./
+├── bin
+├── dataset
+├── file_tree.txt
+├── lib
+├── lib64 -> lib
+├── model.pth
+├── pyvenv.cfg
+├── requirement.txt
+├── share
+└── src
+
+6 directories, 4 files
+
+
+# Dataset NLPCC2017
+./dataset/NLPCC2017/
+├── test.txt
+└── train.txt
+
+0 directories, 2 files
+
+
+# Dataset THUCNews
+./dataset/THUCNews/
+├── 体育
+├── 娱乐
+├── 家居
+├── 彩票
+├── 房产
+├── 教育
+├── 时尚
+├── 时政
+├── 星座
+├── 游戏
+├── 社会
+├── 科技
+├── 股票
+└── 财经
+
+14 directories
+
+
+./dataset/THUCNews/体育/    0 directories, 131604 files
+./dataset/THUCNews/娱乐/    0 directories, 92632 files
+./dataset/THUCNews/家居/    0 directories, 32586 files
+./dataset/THUCNews/彩票/    0 directories, 7588 files
+./dataset/THUCNews/房产/    0 directories, 20050 files
+./dataset/THUCNews/教育/    0 directories, 41936 files
+./dataset/THUCNews/时尚/    0 directories, 13368 files
+./dataset/THUCNews/时政/    0 directories, 63086 files
+./dataset/THUCNews/星座/    0 directories, 3578 files
+./dataset/THUCNews/游戏/    0 directories, 24373 files
+./dataset/THUCNews/社会/    0 directories, 50849 files
+./dataset/THUCNews/科技/    0 directories, 162929 files
+./dataset/THUCNews/股票/    0 directories, 154398 files
+./dataset/THUCNews/财经/    0 directories, 37098 files
+
+
+# Source codes
+src/
+├── helper.py
+├── nlpcc.py
+└── thuc.py
+
+0 directories, 3 files
