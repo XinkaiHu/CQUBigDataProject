@@ -1,6 +1,6 @@
 # Neural-Network-Based News Headline Categorization
 
-News headling categorization with TextCNN.
+News headling categorization with self-implemented FastText.
 
 # Dataset
 
